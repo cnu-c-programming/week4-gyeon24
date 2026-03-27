@@ -1,4 +1,4 @@
-SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS#include <stdio.h>
+#include <stdio.h>
 
 int main(){
   int arr[] = {3,7,1,9,4,6};
