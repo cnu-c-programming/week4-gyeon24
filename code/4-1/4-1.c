@@ -17,7 +17,7 @@ int main(){
 
   for(int i=0;i<5;i++){
     printf("%d ", c[i]);
-  } printf("\n";
+  } printf("\n");
 
   int d[] = {10, 20, 30};
 
